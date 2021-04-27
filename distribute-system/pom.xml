@@ -10,7 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>distribute-ratelimiter</module>
+        <module>distribute-transaction</module>
         <module>distribute-ratelimiter</module>
+        <module>distribute-datasource</module>
+        <module>distribute-service</module>
     </modules>
 
 
